@@ -1,1 +1,1 @@
-# first-repository
+# RBM- Restricted Bolzmann Machine for Digit Classification
